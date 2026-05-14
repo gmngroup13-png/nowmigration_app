@@ -1,0 +1,36 @@
+name: nowmigration_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.1.2
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
+  firebase_storage: ^12.0.0
+  http: ^1.2.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/alpha_canada.jpg
+    - assets/global_australia.jpg
+    - assets/apeiro.png
+    - assets/aiwt.png
+    - assets/dorset_ireland.jpg
+    - assets/global_malta.jpg

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11784434505",
+    "project_id": "nowmigration",
+    "storage_bucket": "nowmigration.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11784434505:android:fffafd9f5f723915516098",
+        "android_client_info": {
+          "package_name": "com.example.nowmigration_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCohZhjqM1JH_57vo3dRoiZrfFj-vccQwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
